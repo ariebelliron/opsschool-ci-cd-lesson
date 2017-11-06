@@ -40,4 +40,7 @@ Create yourself an admin account.
 7. Fill out Credentials
 Further examples for setup:
 https://wiki.jenkins.io/display/JENKINS/SSH+Slaves+plugin
+8. Install Java on slave if needed.
+https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get
+
 Voila!
